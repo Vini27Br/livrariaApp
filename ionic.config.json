@@ -1,0 +1,7 @@
+{
+  "name": "livrariaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
